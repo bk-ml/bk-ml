@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-<a href="https://bk-ml.github.io/my-portfolio-v2/">🌐 https://bk-ml.github.io</a> • 
+<a href="https://bk-ml.github.io/">🌐 https://bk-ml.github.io</a> • 
 <a href="https://www.linkedin.com/in/bhawnakochhar">💼 LinkedIn</a> • 
 <a href="mailto:bhawnakochhar2@gmail.com">📧 Email</a>
 </p>
