@@ -7,6 +7,12 @@
 </div>
 
 <p align="center">
+<a href="https://bk-ml.github.io/my-portfolio-v2/">🌐 https://bk-ml.github.io</a> • 
+<a href="https://www.linkedin.com/in/bhawnakochhar">💼 LinkedIn</a> • 
+<a href="mailto:bhawnakochhar2@gmail.com">📧 Email</a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Focus-Real--Time%20Systems-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Scale-Million%20Event%2Fday-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Strength-Backend%20%2B%20Distributed%20Systems-brown?style=for-the-badge" />
@@ -113,16 +119,6 @@ CloudWatch · Datadog · Sentry · PagerDuty · GitHub Actions · Jenkins
 - Streaming-first backend architectures
 - Human perception of latency in distributed systems
 - “Instant feel” system design patterns
-
----
-
-## 🌍 Links
-
-<p align="center">
-<a href="https://bk-ml.github.io">🌐 Portfolio</a> • 
-<a href="https://www.linkedin.com/in/bhawnakochhar">💼 LinkedIn</a> • 
-<a href="mailto:bhawnakochhar2@gmail.com">📧 Email</a>
-</p>
 
 ---
 
