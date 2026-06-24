@@ -120,10 +120,3 @@ CloudWatch · Datadog · Sentry · PagerDuty · GitHub Actions · Jenkins
 - Human perception of latency in distributed systems
 - “Instant feel” system design patterns
 
----
-
-## ⚡ One Line
-
-<p align="center">
-<b>Building systems that feel instant — even when they are not.</b>
-</p>
